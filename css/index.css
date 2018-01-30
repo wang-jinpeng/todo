@@ -99,7 +99,7 @@ html,
 				border: 0;
 				box-sizing: border-box;
 				padding: 4vh;
-				font-size: 50px;
+				font-size: 20px;
 			}
 			
 			.bth {
@@ -192,12 +192,12 @@ html,
 				left: 100vw;
 				top: 0;
 			}
-			
+
 			.content-text ul li p {
 				width: 60vw;
 				height: 100%;
 				line-height: 6vh;
-				font-size: 40px;
+				font-size: 16px;
 				text-align: left;
 				padding-left: 2vw;
 				color: #000000;
@@ -208,7 +208,7 @@ html,
 				width: 40vw;
 				height: 100%;
 				line-height: 6vh;
-				font-size: 40px;
+				font-size: 12px;
 				text-align: left;
 				color: deepskyblue;
 				float: left;
@@ -218,7 +218,7 @@ html,
 				width: 10vw;
 				height: 100%;
 				line-height: 6vh;
-				font-size: 40px;
+				font-size: 12px;
 				text-align: left;
 				color: deepskyblue;
 				float: left;
